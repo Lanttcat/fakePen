@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakePen", "fakePen\fakePen.csproj", "{FFB23C37-4CC9-4922-AEF7-EB3923630BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakePen.test", "fakePen.test\fakePen.test.csproj", "{DC200FF9-3CB9-41BC-B1BD-C670BB4E6D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB23C37-4CC9-4922-AEF7-EB3923630BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB23C37-4CC9-4922-AEF7-EB3923630BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB23C37-4CC9-4922-AEF7-EB3923630BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB23C37-4CC9-4922-AEF7-EB3923630BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC200FF9-3CB9-41BC-B1BD-C670BB4E6D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC200FF9-3CB9-41BC-B1BD-C670BB4E6D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC200FF9-3CB9-41BC-B1BD-C670BB4E6D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC200FF9-3CB9-41BC-B1BD-C670BB4E6D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
